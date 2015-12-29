@@ -4,11 +4,11 @@
  */
 
 return array(
-	'default' => array(
-		'connection'  => array(
-			'dsn'        => 'mysql:host=localhost;dbname=fuel_dev',
-			'username'   => 'root',
-			'password'   => 'root',
-		),
-	),
+    'default' => array(
+        'connection'  => array(
+            'dsn'        => 'mysql:host=127.0.0.1;dbname=fuel_blog',
+            'username'   => 'mc_okada',
+            'password'   => '',
+        ),
+    ),
 );
